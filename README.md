@@ -1,4 +1,4 @@
-# Aop Example AR
+# Example app AR
 
 A new Flutter project.
 
